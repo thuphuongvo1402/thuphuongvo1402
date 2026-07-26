@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=0D47A1&center=true&vCenter=true&width=500&lines=Hi,+I'm+Thu+Phuong+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+
 <h2 style="color:#003366;">Hi, I'm Thu Phuong 👋</h2>
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
