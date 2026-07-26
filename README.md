@@ -1,5 +1,5 @@
 ## Hi , I'm [Thu Phuong] 👋
-
+<h2 style="color:#003366;">Hi, I'm Thu Phuong 👋</h2>
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
   <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
